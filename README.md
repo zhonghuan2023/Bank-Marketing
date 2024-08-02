@@ -8,5 +8,11 @@
 
 ---
 
+### File Description
+* **data/**: Contains all datasets used in the project.
+* **Visualization&Preprocessing.ipynb**: Data visualization and preprocessing.
+* **ML_Approach.ipynb**: Analysis using machine learning methods.
+* **DL_Approach.ipynb**: Analysis using deep learning methods.
+
 
 
